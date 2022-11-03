@@ -554,3 +554,21 @@ footer p{
     color: rgb(125, 124, 124);
     margin-left: 3%;
 }
+.fa-spotify{
+    cursor: pointer;
+}
+.fa-facebook{
+    cursor: pointer;
+}
+.fa-pinterest{
+    cursor: pointer;
+}
+.fa-instagram{
+     cursor: pointer;
+}
+.fa-youtube{
+     cursor: pointer;
+}
+.fa-twitter{
+    cursor: pointer;
+}
